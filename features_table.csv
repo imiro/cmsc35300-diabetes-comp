@@ -1,0 +1,27 @@
+,CODE,DESCRIPTION,UNITS
+2,14959-1,Microalbumin Creatinine Ratio,mg/g
+6,18262-6,Low Density Lipoprotein Cholesterol,mg/dL
+13,20565-8,Carbon Dioxide,mmol/L
+14,2069-3,Chloride,mmol/L
+16,2085-9,High Density Lipoprotein Cholesterol,mg/dL
+17,2093-3,Total Cholesterol,mg/dL
+21,2339-0,Glucose,mg/dL
+26,2571-8,Triglycerides,mg/dL
+30,29463-7,Body Weight,kg
+31,2947-0,Sodium,mmol/L
+37,33914-3,Glomerular filtration rate/1.73 sq M.predicted,mL/min
+39,38483-4,Creatinine,mg/dL
+40,39156-5,Body Mass Index,kg/m2
+43,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,%
+44,49765-1,Calcium,mg/dL
+45,55758-7,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],{score}
+52,6298-4,Potassium,mmol/L
+53,6299-2,Urea Nitrogen,mg/dL
+54,63512-8,How many family members  including yourself  do you currently live with?,{#}
+57,70274-6,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],{score}
+59,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,{score}
+71,8302-2,Body Height,cm
+73,8462-4,Diastolic Blood Pressure,mm[Hg]
+74,8480-6,Systolic Blood Pressure,mm[Hg]
+75,8867-4,Heart rate,/min
+79,9279-1,Respiratory rate,/min
